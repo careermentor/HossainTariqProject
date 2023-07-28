@@ -1,0 +1,2 @@
+This is text file written in eclipse we will learn how to read this file
+name=selenium
